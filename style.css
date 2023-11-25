@@ -15,7 +15,6 @@
 /* Background video */
 #bcgvideo {
     position: fixed;
-    display: block;
     right: 0;
     bottom: 0;
     min-width: 100%;
